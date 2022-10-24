@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\MVC\Task-9.3\bin\Debug\net5.0\Task-9.3.exe
+C:\Users\user\Desktop\MVC\Task-9.3\bin\Debug\net5.0\Task-9.3.deps.json
+C:\Users\user\Desktop\MVC\Task-9.3\bin\Debug\net5.0\Task-9.3.runtimeconfig.json
+C:\Users\user\Desktop\MVC\Task-9.3\bin\Debug\net5.0\Task-9.3.runtimeconfig.dev.json
+C:\Users\user\Desktop\MVC\Task-9.3\bin\Debug\net5.0\Task-9.3.dll
+C:\Users\user\Desktop\MVC\Task-9.3\bin\Debug\net5.0\Task-9.3.pdb
+C:\Users\user\Desktop\MVC\Task-9.3\obj\Debug\net5.0\Task-9.3.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\MVC\Task-9.3\obj\Debug\net5.0\Task-9.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\MVC\Task-9.3\obj\Debug\net5.0\Task-9.3.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\MVC\Task-9.3\obj\Debug\net5.0\Task-9.3.AssemblyInfo.cs
+C:\Users\user\Desktop\MVC\Task-9.3\obj\Debug\net5.0\Task-9.3.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\MVC\Task-9.3\obj\Debug\net5.0\Task-9.3.dll
+C:\Users\user\Desktop\MVC\Task-9.3\obj\Debug\net5.0\refint\Task-9.3.dll
+C:\Users\user\Desktop\MVC\Task-9.3\obj\Debug\net5.0\Task-9.3.pdb
+C:\Users\user\Desktop\MVC\Task-9.3\obj\Debug\net5.0\Task-9.3.genruntimeconfig.cache
+C:\Users\user\Desktop\MVC\Task-9.3\obj\Debug\net5.0\ref\Task-9.3.dll
